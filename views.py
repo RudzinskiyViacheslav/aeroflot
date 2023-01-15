@@ -54,7 +54,7 @@ def window():
     root = Tk()
 
     root.title("Курсовая работа. Выполнил: Азиз")
-    root.geometry('1400x800')
+    root.geometry('1400x400')
     root.configure(background='#D3D3D3')
 
     #Найти рейс (кнопка + поле)
